@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">a3828db7-1302-4f19-bd0a-f03971326552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3828db7-1302-4f19-bd0a-f03971326552</dc:identifier>
+        <dc:title>The Bread Lover's Bread Machine Cookbook</dc:title>
+        <dc:creator opf:file-as="Hensperger, Beth" opf:role="aut">Beth Hensperger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A master baker's 300 favorite recipes for perfect-every-time bread - from every kind of machine - by master breadmaker, Beth Hensperger. A fresh loaf any time you want!&lt;p&gt;Can the incomparable taste, texture, and aroma of handcrafted bread from a neighborhood bakery be reproduced in a bread machine? When Beth Hensperger, one of America's most respected authorities on bread, first set out to try, she had doubts. Then she spent hundreds of hours testing all kinds of breads in a bread machine, and her answer turned out to be a resounding "Yes!" In this big and bountiful book full of more than 300 recipes, she reveals all the simple secrets for perfect bread every time.&lt;p&gt;No matter how you slice it, Beth's brilliant recipes add up to a lifetime of fun with your bread machine!&lt;p&gt;Recipes include:&lt;p&gt;White Breads&lt;p&gt;Egg Breads&lt;p&gt;Whole Wheat Breads&lt;p&gt;Rye Breads&lt;p&gt;Gluten-Free Breads&lt;p&gt;Multigrain Breads&lt;p&gt;Country Breads&lt;p&gt;Sourdough Breads&lt;p&gt;Herb Breads&lt;p&gt;Nut Breads&lt;p&gt;Vegetable and Fruit...</dc:description>
+        <dc:publisher>Harvard Common Press</dc:publisher>
+        <dc:rights>Please read the legal notice included in this e-book and/or check the copyright status in your country.</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>TO DO</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

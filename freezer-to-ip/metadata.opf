@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">fc33c724-29fe-458e-921c-3b0915c0214a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc33c724-29fe-458e-921c-3b0915c0214a</dc:identifier>
+        <dc:title>From Freezer to Instant Pot--The Cookbook</dc:title>
+        <dc:creator opf:file-as="WEINSTEIN, BRUCE / SCARBROUGH, MARK" opf:role="aut">Bruce Weinstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The ultimate INSTANT POT convenience cookbook, with 75 recipes for delicious meals straight from your freezer to the table in minutes, &lt;i&gt;no thawing required.&lt;/i&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;p&gt;Have you ever come home at the end of a long day, pulled an ice-coated lump of meat out of the freezer, and thought, "Can I eat this tonight?" With this book and your Instant Pot, the answer is a resounding "Yes."&lt;p&gt;&lt;br&gt;&lt;p&gt;Here, you'll find 75 recipes and tons of strategies for cooking quick, flavorful one-pot meals with frozen ingredients, all with zero thaw time and no advance prep necessary. Each recipe gives timings and ingredients for every 6- and 8-quart model of Instant Pot, including the new Instant Pot Max. Just open your freezer, lock on the lid, and cook! You'll be eating dinner in no time.&lt;p&gt;&lt;br&gt;&lt;p&gt;The Instant Pot transformed the way you feed your family. Now you can get even more out of your Instant Pot with these delicious, straight-from-the-freezer, one-and-done meals for...</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>TO DO</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

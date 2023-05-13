@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8b558acf-bca6-4322-9d0e-914563c1e1c6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b558acf-bca6-4322-9d0e-914563c1e1c6</dc:identifier>
+        <dc:title>Bread Illustrated</dc:title>
+        <dc:creator opf:file-as="Kitchen, Bread Illustrated A Step-By-Step Guide to Achieving Bakery-Quality Results at Home-America’s Test" opf:role="aut">Bread Illustrated A Step-By-Step Guide to Achieving Bakery-Quality Results at Home-America’s Test Kitchen (2016)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In this comprehensive cookbook, America's Test Kitchen breaks down the often intimidating art and science of bread baking, making it easy for anyone to create foolproof, bakery-quality breads at home.&lt;/b&gt; &lt;br&gt;Many home cooks find bread baking rewarding but intimidating. In &lt;i&gt;Bread Illustrated&lt;/i&gt;, America's Test Kitchen shows bakers of all levels how to make foolproof breads, rolls, flatbreads, and more at home. Each of the 100 master recipes is presented as a hands-on and reassuring tutorial illustrated with six to 24 full-color step-by-step photos. Organized by level of difficulty to make bread baking less daunting, the book progresses from the simplest recipes for the novice baker to bakery-style artisan loaves, breads that use starters, and more complex project recipes. The recipes cover a wide and exciting range of breads from basics and classics like Easy Sandwich Bread and Fluffy Dinner Rolls to interesting breads from around the world including Chapati, Panettone, and...</dc:description>
+        <dc:publisher>America's Test Kitchen</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>TO DO</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
