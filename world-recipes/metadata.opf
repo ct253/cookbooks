@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6ed7ed60-d012-437d-be6f-a17db41cf267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed7ed60-d012-437d-be6f-a17db41cf267</dc:identifier>
+        <dc:title>The Best Recipes in the World</dc:title>
+        <dc:creator opf:file-as="Bittman, Mark" opf:role="aut">Mark Bittman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-20T08:00:00+00:00</dc:date>
+        <dc:publisher>Potter/Ten Speed/Harmony/Rodale</dc:publisher>
+        <dc:rights>Copyright &amp;#xa9; 2005 by Double B Publishing, Inc.</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Cookbook</dc:subject>
+        <dc:subject>TO DO</dc:subject>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
