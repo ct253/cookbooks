@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">e0bcf3cb-9f56-4b56-94b6-d137c799fd86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0bcf3cb-9f56-4b56-94b6-d137c799fd86</dc:identifier>
+        <dc:title>The Complete Vegetarian Cookbook</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-01T08:00:00+00:00</dc:date>
+        <dc:publisher>America's Test Kitchen</dc:publisher>
+        <dc:rights>Copyright &amp;#x00A9; 2013 by the Editors at America&amp;#x2019;s Test Kitchen</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Cookbook</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

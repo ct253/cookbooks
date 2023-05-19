@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f24ec03c-c174-46fa-917a-5b804b9d6e09</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f24ec03c-c174-46fa-917a-5b804b9d6e09</dc:identifier>
+        <dc:title>The Complete Slow Cooker</dc:title>
+        <dc:creator opf:file-as="Kitchen, America's Test" opf:role="aut">America's Test Kitchen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-31T07:00:00+00:00</dc:date>
+        <dc:publisher>America's Test Kitchen</dc:publisher>
+        <dc:rights>Copyright © 2017 by The Editors at America’s Test Kitchen</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Cookbook</dc:subject>
+        <dc:subject>TO DO</dc:subject>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

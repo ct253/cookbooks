@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2d603804-fbab-44eb-990b-21609c00a712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d603804-fbab-44eb-990b-21609c00a712</dc:identifier>
+        <dc:title>The CSA Cookbook</dc:title>
+        <dc:creator opf:file-as="Ly, Linda" opf:role="aut">Linda Ly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Make the most of your CSA membership - or your garden harvest - with simple yet bold, inventive yet nourishing meals from acclaimed blogger Linda Ly.&lt;p&gt;Community Supported Agriculture (CSA) programs have connected farms to consumers and made people more in tune with where their food comes from, but still leave many stumped beyond the conventional uses for their produce. How many times has a CSA share arrived with things you've never seen before or not known what to do with?The CSA Cookbook will help you cook your way through a CSA box (or farmers' market or backyard bounty) with 105 seasonal recipes that utilize every edible part of the plant, from leaves and flowers to stems and seeds. Think of it as a nose-to-tail approach - for vegetables!&lt;p&gt;With innovative ideas for preparing the lesser-known but no-less-delicious parts of plants, tips for using the odds and ends of vegetables, and easy preservation techniques, Linda Ly helps you get from farm to table without a fuss....</dc:description>
+        <dc:publisher>MBI</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Cookbook</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
